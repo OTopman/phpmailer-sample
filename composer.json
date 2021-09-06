@@ -1,0 +1,17 @@
+{
+    "name": "topman/mailer",
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Topman\\Mailer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Topman",
+            "email": "okunlolatopman14@gmail.com"
+        }
+    ]
+}
